@@ -8,10 +8,10 @@ list using JavaScript without refreshing the page.
 
 <h2>🛠 Technologies</h2>
 <ul>
-  <li>HTML5 – Structure of the application</li>
-  <li>CSS3 – Layout and styling</li>
-  <li>JavaScript (Vanilla JS) – Application logic</li>
-  <li>DOM Manipulation – Dynamically updating elements</li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript (Vanilla JS)</li>
+  <li>DOM Manipulationgid</li>
 </ul>
 
 <h2>✨ Features</h2>
