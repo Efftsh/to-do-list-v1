@@ -23,7 +23,7 @@ const addTask = function () {
     });
 
     const markAsRead = document.createElement("button");
-    markAsRead.textContent = "Mark As Read";
+    markAsRead.textContent = "Mark As Done";
     markAsRead.addEventListener("click", function () {
       li.classList.toggle("completed");
     });
@@ -33,5 +33,5 @@ const addTask = function () {
     taskInput.placeholder = "Enter task";
   }
 };
-``
+``;
 addButton.addEventListener("click", addTask);
