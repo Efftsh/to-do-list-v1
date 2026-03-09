@@ -41,3 +41,10 @@ list using JavaScript without refreshing the page.
   <li>Handling user interactions with event listeners.</li>
   <li>Building a small interactive web application using Vanilla JavaScript.</li>
 </ul>
+
+<h2>🎥 Preview</h2>
+
+
+
+https://github.com/user-attachments/assets/f7853cb7-c621-4752-96d3-ef9eafa712fd
+
